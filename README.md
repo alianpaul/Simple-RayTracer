@@ -5,7 +5,7 @@ I use the framework and math library from the [CMU project](https://github.com/4
 <div align=center>
 
 <img src="https://github.com/alianpaul/Simple-RayTracer/blob/master/Result/dragon.png" width="50%" height="50%"><img src="https://github.com/alianpaul/Simple-RayTracer/blob/master/Result/spheres.png" width="50%" height="50%">
-<img src="https://github.com/alianpaul/Simple-RayTracer/blob/master/Result/lucy.png" width="50%" height="50%">
+<img src="https://github.com/alianpaul/Simple-RayTracer/blob/master/Result/lucy.png" width="50%" height="50%"><img src="https://github.com/alianpaul/Simple-RayTracer/blob/master/Result/bunny.png" width="50%" height="50%">
 
 </div>
 
